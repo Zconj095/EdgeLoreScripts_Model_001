@@ -1,5 +1,3 @@
-from ListOfDirectoriesForAsunaAi import __FOLDER_PATH__
-from ListOfDirectoriesForAsunaAi_2 import __PROGRAM_NAME__
 from Pokemonarrayscript import *
 from MasterScriptForte_Redone_2 import *
 import pandas as pd
